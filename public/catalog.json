@@ -1,0 +1,3105 @@
+{
+  "summary": {
+    "as_of": "2026-09-18",
+    "directory_body_entries": 77,
+    "unique_directory_families": 78,
+    "fetched_page_urls": 79,
+    "duplicate_page_alias": "Mrs Tiggy-Winkle / Mrs Tiggy-Winkle-2",
+    "provisional_action_entries": 103,
+    "unresolved_second_style_families": 2,
+    "downloaded_reference_images": 100,
+    "missing_image_entries": 3,
+    "scope": "Source-site Beswick section only; not an independently verified complete production catalogue. Multi-character tableaux included. Paint, finish, dates, backstamps, size-only differences and minor mould orientation provisionally merged.",
+    "image_rights": "Third-party reference images; no open license established. Preserve attribution; publication/reuse rights not granted by downloading."
+  },
+  "ui_metadata": {
+    "locale": "zh-CN",
+    "label_policy_zh": "保留角色英文名，中文仅说明来源名称明确包含的动作或场景；未注明动作时使用「角色造型」。",
+    "scope_note_zh": "以来源网站的 Beswick 栏目为范围，暂按动作整理为 103 条；不代表已独立核验的完整生产目录。",
+    "counting_note_zh": "包含多角色场景；涂色、光泽、年份、底标、尺寸及轻微模具朝向差异暂不单独计数。",
+    "image_rights_note_zh": "图片为第三方参考图，未确认开放许可；来源标注不等于获得再发布授权。",
+    "grouping_note_zh": "角色分组仅用于浏览；原始 catalog_family、ID、顺序与来源字段均保留。组合场景单独列组，也可按 characters 检索其中角色。",
+    "fixed_entry_count": 103,
+    "reference_image_count": 100,
+    "missing_image_count": 3
+  },
+  "character_groups": [
+    {
+      "id": "amiable-guinea-pig",
+      "label": "Amiable Guinea Pig",
+      "count": 1,
+      "figure_ids": [
+        "amiable-guinea-pig"
+      ]
+    },
+    {
+      "id": "and-this-pig-had-none",
+      "label": "And This Pig Had None",
+      "count": 1,
+      "figure_ids": [
+        "and-this-pig-had-none"
+      ]
+    },
+    {
+      "id": "anna-maria",
+      "label": "Anna Maria",
+      "count": 1,
+      "figure_ids": [
+        "anna-maria"
+      ]
+    },
+    {
+      "id": "appley-dapply",
+      "label": "Appley Dapply",
+      "count": 1,
+      "figure_ids": [
+        "appley-dapply"
+      ]
+    },
+    {
+      "id": "aunt-pettitoes",
+      "label": "Aunt Pettitoes",
+      "count": 1,
+      "figure_ids": [
+        "aunt-pettitoes"
+      ]
+    },
+    {
+      "id": "benjamin-bunny",
+      "label": "Benjamin Bunny",
+      "count": 3,
+      "figure_ids": [
+        "benjamin-ate-a-lettuce-leaf",
+        "benjamin-bunny",
+        "benjamin-sat-on-a-bank"
+      ]
+    },
+    {
+      "id": "cecily-parsley",
+      "label": "Cecily Parsley",
+      "count": 1,
+      "figure_ids": [
+        "cecily-parsley"
+      ]
+    },
+    {
+      "id": "chippy-hackee",
+      "label": "Chippy Hackee",
+      "count": 1,
+      "figure_ids": [
+        "chippy-hackee"
+      ]
+    },
+    {
+      "id": "cousin-ribby",
+      "label": "Cousin Ribby",
+      "count": 1,
+      "figure_ids": [
+        "cousin-ribby"
+      ]
+    },
+    {
+      "id": "diggory-diggory-delvet",
+      "label": "Diggory Diggory Delvet",
+      "count": 1,
+      "figure_ids": [
+        "diggory-diggory-delvet"
+      ]
+    },
+    {
+      "id": "duchess",
+      "label": "Duchess",
+      "count": 2,
+      "figure_ids": [
+        "duchess-with-flowers",
+        "duchess-with-pie"
+      ]
+    },
+    {
+      "id": "farmer-potatoes",
+      "label": "Farmer Potatoes",
+      "count": 1,
+      "figure_ids": [
+        "farmer-potatoes"
+      ]
+    },
+    {
+      "id": "fierce-bad-rabbit",
+      "label": "Fierce Bad Rabbit",
+      "count": 1,
+      "figure_ids": [
+        "fierce-bad-rabbit"
+      ]
+    },
+    {
+      "id": "flopsy-mopsy-and-cottontail",
+      "label": "Flopsy, Mopsy and Cottontail",
+      "count": 2,
+      "figure_ids": [
+        "flopsy-mopsy-and-cottontail-cloaks",
+        "flopsy-mopsy-and-cottontail-around-a-pot"
+      ]
+    },
+    {
+      "id": "cottontail",
+      "label": "Cottontail",
+      "count": 1,
+      "figure_ids": [
+        "cottontail-sitting-on-a-chair"
+      ]
+    },
+    {
+      "id": "foxy-whiskered-gentleman",
+      "label": "Foxy Whiskered Gentleman",
+      "count": 1,
+      "figure_ids": [
+        "foxy-whiskered-gentleman"
+      ]
+    },
+    {
+      "id": "ginger",
+      "label": "Ginger",
+      "count": 1,
+      "figure_ids": [
+        "ginger"
+      ]
+    },
+    {
+      "id": "ginger-pickles",
+      "label": "Ginger & Pickles",
+      "count": 1,
+      "figure_ids": [
+        "ginger-and-pickles-tableau"
+      ]
+    },
+    {
+      "id": "goody-tiptoes",
+      "label": "Goody Tiptoes",
+      "count": 1,
+      "figure_ids": [
+        "goody-tiptoes"
+      ]
+    },
+    {
+      "id": "goody-timmy-tiptoes",
+      "label": "Goody & Timmy Tiptoes",
+      "count": 1,
+      "figure_ids": [
+        "goody-and-timmy-tiptoes"
+      ]
+    },
+    {
+      "id": "head-gardener",
+      "label": "Head Gardener",
+      "count": 1,
+      "figure_ids": [
+        "head-gardener"
+      ]
+    },
+    {
+      "id": "hunca-munca",
+      "label": "Hunca Munca",
+      "count": 3,
+      "figure_ids": [
+        "hunca-munca-with-straw-cradle",
+        "hunca-munca-cleaning-a-saucepan",
+        "hunca-munca-sweeping"
+      ]
+    },
+    {
+      "id": "jemima-puddle-duck",
+      "label": "Jemima Puddle-Duck",
+      "count": 3,
+      "figure_ids": [
+        "jemima-puddle-duck",
+        "jemima-made-a-feathered-nest",
+        "jemima-and-her-ducklings"
+      ]
+    },
+    {
+      "id": "jemima-foxy-whiskered-gentleman",
+      "label": "Jemima & Foxy Whiskered Gentleman",
+      "count": 1,
+      "figure_ids": [
+        "jemima-puddle-duck-with-foxy-whiskered-gentleman"
+      ]
+    },
+    {
+      "id": "mr-jeremy-fisher",
+      "label": "Mr Jeremy Fisher",
+      "count": 3,
+      "figure_ids": [
+        "jeremy-fisher-catches-a-fish",
+        "mr-jeremy-fisher",
+        "mr-jeremy-fisher-digging"
+      ]
+    },
+    {
+      "id": "johnny-town-mouse",
+      "label": "Johnny Town-Mouse",
+      "count": 3,
+      "figure_ids": [
+        "johnny-town-mouse",
+        "johnny-town-mouse-eating-corn",
+        "johnny-town-mouse-with-a-bag"
+      ]
+    },
+    {
+      "id": "lady-mouse",
+      "label": "Lady Mouse",
+      "count": 1,
+      "figure_ids": [
+        "lady-mouse"
+      ]
+    },
+    {
+      "id": "little-black-rabbit",
+      "label": "Little Black Rabbit",
+      "count": 1,
+      "figure_ids": [
+        "little-black-rabbit"
+      ]
+    },
+    {
+      "id": "little-pig-robinson",
+      "label": "Little Pig Robinson",
+      "count": 2,
+      "figure_ids": [
+        "little-pig-robinson",
+        "little-pig-robinson-spying"
+      ]
+    },
+    {
+      "id": "miss-moppet",
+      "label": "Miss Moppet",
+      "count": 1,
+      "figure_ids": [
+        "miss-moppet"
+      ]
+    },
+    {
+      "id": "tabitha-twitchit-miss-moppet",
+      "label": "Tabitha Twitchit & Miss Moppet",
+      "count": 1,
+      "figure_ids": [
+        "tabitha-twitchit-and-miss-moppet"
+      ]
+    },
+    {
+      "id": "mr-alderman-ptolemy",
+      "label": "Mr Alderman Ptolemy",
+      "count": 1,
+      "figure_ids": [
+        "mr-alderman-ptolemy"
+      ]
+    },
+    {
+      "id": "mr-drake-puddle-duck",
+      "label": "Mr Drake Puddle-duck",
+      "count": 1,
+      "figure_ids": [
+        "mr-drake-puddle-duck"
+      ]
+    },
+    {
+      "id": "mr-jackson",
+      "label": "Mr Jackson",
+      "count": 1,
+      "figure_ids": [
+        "mr-jackson"
+      ]
+    },
+    {
+      "id": "mr-mcgregor",
+      "label": "Mr McGregor",
+      "count": 1,
+      "figure_ids": [
+        "mr-mcgregor"
+      ]
+    },
+    {
+      "id": "mr-tod",
+      "label": "Mr Tod",
+      "count": 1,
+      "figure_ids": [
+        "mr-tod"
+      ]
+    },
+    {
+      "id": "mr-benjamin-bunny",
+      "label": "Mr Benjamin Bunny",
+      "count": 1,
+      "figure_ids": [
+        "mr-benjamin-bunny"
+      ]
+    },
+    {
+      "id": "mr-benjamin-bunny-peter",
+      "label": "Mr Benjamin Bunny & Peter",
+      "count": 1,
+      "figure_ids": [
+        "mr-benjamin-bunny-and-peter"
+      ]
+    },
+    {
+      "id": "mrs-flopsy-bunny",
+      "label": "Mrs Flopsy Bunny",
+      "count": 1,
+      "figure_ids": [
+        "mrs-flopsy-bunny"
+      ]
+    },
+    {
+      "id": "mrs-rabbit",
+      "label": "Mrs Rabbit",
+      "count": 3,
+      "figure_ids": [
+        "mrs-rabbit",
+        "mrs-rabbit-and-bunnies",
+        "mrs-rabbit-cooking"
+      ]
+    },
+    {
+      "id": "mrs-rabbit-peter",
+      "label": "Mrs Rabbit & Peter",
+      "count": 1,
+      "figure_ids": [
+        "mrs-rabbit-and-peter"
+      ]
+    },
+    {
+      "id": "mrs-tiggy-winkle",
+      "label": "Mrs Tiggy-Winkle",
+      "count": 4,
+      "figure_ids": [
+        "mrs-tiggy-winkle",
+        "mrs-tiggy-winkle-buys-provisions",
+        "mrs-tiggy-winkle-takes-tea",
+        "mrs-tiggy-winkle-washing"
+      ]
+    },
+    {
+      "id": "mrs-tittlemouse",
+      "label": "Mrs Tittlemouse",
+      "count": 1,
+      "figure_ids": [
+        "mrs-tittlemouse"
+      ]
+    },
+    {
+      "id": "old-mr-bouncer",
+      "label": "Old Mr Bouncer",
+      "count": 1,
+      "figure_ids": [
+        "old-mr-bouncer"
+      ]
+    },
+    {
+      "id": "old-mr-brown",
+      "label": "Old Mr Brown",
+      "count": 1,
+      "figure_ids": [
+        "old-mr-brown"
+      ]
+    },
+    {
+      "id": "old-mr-pricklepin",
+      "label": "Old Mr Pricklepin",
+      "count": 1,
+      "figure_ids": [
+        "old-mr-pricklepin"
+      ]
+    },
+    {
+      "id": "peter-rabbit",
+      "label": "Peter Rabbit",
+      "count": 11,
+      "figure_ids": [
+        "peter-and-the-red-pocket-handkerchief",
+        "peter-in-bed",
+        "peter-in-the-watering-can",
+        "peter-on-his-book",
+        "peter-rabbit",
+        "peter-rabbit-digging",
+        "peter-rabbit-gardening",
+        "peter-with-daffodils",
+        "peter-with-postbag",
+        "poorly-peter-rabbit",
+        "sweet-peter-rabbit"
+      ]
+    },
+    {
+      "id": "pickles",
+      "label": "Pickles",
+      "count": 1,
+      "figure_ids": [
+        "pickles"
+      ]
+    },
+    {
+      "id": "pig-wig",
+      "label": "Pig Wig",
+      "count": 1,
+      "figure_ids": [
+        "pig-wig"
+      ]
+    },
+    {
+      "id": "pigling-bland",
+      "label": "Pigling Bland",
+      "count": 1,
+      "figure_ids": [
+        "pigling-bland"
+      ]
+    },
+    {
+      "id": "rebeccah-puddle-duck",
+      "label": "Rebeccah Puddle-Duck",
+      "count": 1,
+      "figure_ids": [
+        "rebeccah-puddle-duck"
+      ]
+    },
+    {
+      "id": "ribby",
+      "label": "Ribby",
+      "count": 1,
+      "figure_ids": [
+        "ribby"
+      ]
+    },
+    {
+      "id": "sally-henny-penny",
+      "label": "Sally Henny Penny",
+      "count": 1,
+      "figure_ids": [
+        "sally-henny-penny"
+      ]
+    },
+    {
+      "id": "samuel-whiskers",
+      "label": "Samuel Whiskers",
+      "count": 1,
+      "figure_ids": [
+        "samuel-whiskers"
+      ]
+    },
+    {
+      "id": "simpkin",
+      "label": "Simpkin",
+      "count": 1,
+      "figure_ids": [
+        "simpkin"
+      ]
+    },
+    {
+      "id": "sir-isaac-newton",
+      "label": "Sir Isaac Newton",
+      "count": 1,
+      "figure_ids": [
+        "sir-isaac-newton"
+      ]
+    },
+    {
+      "id": "squirrel-nutkin",
+      "label": "Squirrel Nutkin",
+      "count": 1,
+      "figure_ids": [
+        "squirrel-nutkin"
+      ]
+    },
+    {
+      "id": "susan",
+      "label": "Susan",
+      "count": 1,
+      "figure_ids": [
+        "susan"
+      ]
+    },
+    {
+      "id": "tabitha-twitchit",
+      "label": "Tabitha Twitchit",
+      "count": 1,
+      "figure_ids": [
+        "tabitha-twitchit"
+      ]
+    },
+    {
+      "id": "tailor-of-gloucester",
+      "label": "Tailor of Gloucester",
+      "count": 1,
+      "figure_ids": [
+        "tailor-of-gloucester"
+      ]
+    },
+    {
+      "id": "the-old-woman-who-lived-in-a-shoe",
+      "label": "The Old Woman Who Lived in a Shoe",
+      "count": 2,
+      "figure_ids": [
+        "the-old-woman-who-lived-in-a-shoe",
+        "the-old-woman-who-lived-in-a-shoe-knitting"
+      ]
+    },
+    {
+      "id": "this-pig-had-a-bit-of-meat",
+      "label": "This Pig Had A Bit Of Meat",
+      "count": 1,
+      "figure_ids": [
+        "this-pig-had-a-bit-of-meat"
+      ]
+    },
+    {
+      "id": "thomasina-tittlemouse",
+      "label": "Thomasina Tittlemouse",
+      "count": 1,
+      "figure_ids": [
+        "thomasina-tittlemouse"
+      ]
+    },
+    {
+      "id": "timmy-tiptoes",
+      "label": "Timmy Tiptoes",
+      "count": 1,
+      "figure_ids": [
+        "timmy-tiptoes"
+      ]
+    },
+    {
+      "id": "timmy-willie",
+      "label": "Timmy Willie",
+      "count": 3,
+      "figure_ids": [
+        "timmy-willie-fetching-milk",
+        "timmy-willie-from-johnny-town-mouse",
+        "timmy-willie-sleeping"
+      ]
+    },
+    {
+      "id": "tom-kitten",
+      "label": "Tom Kitten",
+      "count": 3,
+      "figure_ids": [
+        "tom-kitten",
+        "tom-kitten-in-the-rockery",
+        "tom-kitten-and-butterfly"
+      ]
+    },
+    {
+      "id": "tom-thumb",
+      "label": "Tom Thumb",
+      "count": 1,
+      "figure_ids": [
+        "tom-thumb"
+      ]
+    },
+    {
+      "id": "tommy-brock",
+      "label": "Tommy Brock",
+      "count": 1,
+      "figure_ids": [
+        "tommy-brock"
+      ]
+    },
+    {
+      "id": "two-gentlemen-rabbits",
+      "label": "Two Gentlemen Rabbits",
+      "count": 1,
+      "figure_ids": [
+        "two-gentlemen-rabbits"
+      ]
+    },
+    {
+      "id": "yock-yock",
+      "label": "Yock-Yock",
+      "count": 1,
+      "figure_ids": [
+        "yock-yock-in-the-tub"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "id": "amiable-guinea-pig",
+      "name": "Amiable Guinea Pig",
+      "catalog_family": "Amiable Guinea Pig",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-amiable-guinea-pig/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/amiable-guinea-pig.jpeg",
+      "image_file": "images/eef5d2ea16-amiable-guinea-pig.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "second_style_needs_pose_verification",
+      "notes": "Source describes two styles but illustrates only one. One provisional family entry; second style not counted separately pending comparison.",
+      "catalog_index": 1,
+      "character_group_id": "amiable-guinea-pig",
+      "character_group": "Amiable Guinea Pig",
+      "characters": [
+        "Amiable Guinea Pig"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Amiable Guinea Pig · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "第二款待核对",
+      "review_note_zh": "来源提到两种款式，但只展示一张图片。目前暂计一条；第二款是否为不同动作，仍待比对。"
+    },
+    {
+      "id": "and-this-pig-had-none",
+      "name": "And This Pig Had None",
+      "catalog_family": "And This Pig Had None",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/and-this-little-pig-had-none/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/and-this-pig-had-none.jpeg",
+      "image_file": "images/d69ab3ffa9-and-this-pig-had-none.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 2,
+      "character_group_id": "and-this-pig-had-none",
+      "character_group": "And This Pig Had None",
+      "characters": [
+        "And This Pig Had None"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "And This Pig Had None · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "anna-maria",
+      "name": "Anna Maria",
+      "catalog_family": "Anna Maria",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-anna-maria/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Anna-Maria.jpeg",
+      "image_file": "images/83acc0db52-Anna-Maria.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 3,
+      "character_group_id": "anna-maria",
+      "character_group": "Anna Maria",
+      "characters": [
+        "Anna Maria"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Anna Maria · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "appley-dapply",
+      "name": "Appley Dapply",
+      "catalog_family": "Appley Dapply",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-appley-dapply/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Appley-Dapply.jpeg",
+      "image_file": "images/6bcdfdb060-Appley-Dapply.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 4,
+      "character_group_id": "appley-dapply",
+      "character_group": "Appley Dapply",
+      "characters": [
+        "Appley Dapply"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Appley Dapply · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "aunt-pettitoes",
+      "name": "Aunt Pettitoes",
+      "catalog_family": "Aunt Pettitoes",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/aunt-pettitoes/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Aunt-Pettitoes.jpeg",
+      "image_file": "images/2943ada5af-Aunt-Pettitoes.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 5,
+      "character_group_id": "aunt-pettitoes",
+      "character_group": "Aunt Pettitoes",
+      "characters": [
+        "Aunt Pettitoes"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Aunt Pettitoes · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "benjamin-ate-a-lettuce-leaf",
+      "name": "Benjamin Ate a Lettuce Leaf",
+      "catalog_family": "Benjamin Ate a Lettuce Leaf",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-benjamin-ate-a-lettuce-leaf/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Benjamin-Ate-a-Lettuce-Leaf.png",
+      "image_file": "images/ad17cdc99f-Benjamin-Ate-a-Lettuce-Leaf.png",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 6,
+      "character_group_id": "benjamin-bunny",
+      "character_group": "Benjamin Bunny",
+      "characters": [
+        "Benjamin Bunny"
+      ],
+      "pose_label_zh": "吃生菜叶",
+      "display_name_zh": "Benjamin Bunny · 吃生菜叶",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "benjamin-bunny",
+      "name": "Benjamin Bunny",
+      "catalog_family": "Benjamin Bunny",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-benjamin-bunny/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Benjamin-Bunny.jpeg",
+      "image_file": "images/62539e8f7e-Benjamin-Bunny.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Head/arm orientation variants provisionally merged under action-level rule; retain separately if collector chooses strict pose-level counting.",
+      "catalog_index": 7,
+      "character_group_id": "benjamin-bunny",
+      "character_group": "Benjamin Bunny",
+      "characters": [
+        "Benjamin Bunny"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Benjamin Bunny · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "按动作层级暂合并头部或手臂朝向差异；若按细分姿态收藏，可另行核对。"
+    },
+    {
+      "id": "benjamin-sat-on-a-bank",
+      "name": "Benjamin Sat on a Bank",
+      "catalog_family": "Benjamin Bunny",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-benjamin-bunny/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2020/08/Benjamin-on-bank.jpeg",
+      "image_file": "images/7a9934c5a6-Benjamin-on-bank.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Head/arm orientation variants provisionally merged under action-level rule; retain separately if collector chooses strict pose-level counting.",
+      "catalog_index": 8,
+      "character_group_id": "benjamin-bunny",
+      "character_group": "Benjamin Bunny",
+      "characters": [
+        "Benjamin Bunny"
+      ],
+      "pose_label_zh": "坐在土坡上",
+      "display_name_zh": "Benjamin Bunny · 坐在土坡上",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "按动作层级暂合并头部或手臂朝向差异；若按细分姿态收藏，可另行核对。"
+    },
+    {
+      "id": "cecily-parsley",
+      "name": "Cecily Parsley",
+      "catalog_family": "Cecily Parsley",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-cecily-parsley/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/cecily-parsley.jpeg",
+      "image_file": "images/a35f4f8cc2-cecily-parsley.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Head/arm orientation variants provisionally merged under action-level rule; retain separately if collector chooses strict pose-level counting.",
+      "catalog_index": 9,
+      "character_group_id": "cecily-parsley",
+      "character_group": "Cecily Parsley",
+      "characters": [
+        "Cecily Parsley"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Cecily Parsley · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "按动作层级暂合并头部或手臂朝向差异；若按细分姿态收藏，可另行核对。"
+    },
+    {
+      "id": "chippy-hackee",
+      "name": "Chippy Hackee",
+      "catalog_family": "Chippy Hackee",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/chippy-hackee/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Chippy-Hackee.jpeg",
+      "image_file": "images/20c8dc815b-Chippy-Hackee.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 10,
+      "character_group_id": "chippy-hackee",
+      "character_group": "Chippy Hackee",
+      "characters": [
+        "Chippy Hackee"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Chippy Hackee · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "cousin-ribby",
+      "name": "Cousin Ribby",
+      "catalog_family": "Cousin Ribby",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-cousin-ribby/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Cousin-Ribby.jpeg",
+      "image_file": "images/b93f0b6a83-Cousin-Ribby.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 11,
+      "character_group_id": "cousin-ribby",
+      "character_group": "Cousin Ribby",
+      "characters": [
+        "Cousin Ribby"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Cousin Ribby · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "diggory-diggory-delvet",
+      "name": "Diggory Diggory Delvet",
+      "catalog_family": "Diggory Diggory Delvet",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-diggory-diggory-delvet/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Diggory-Diggory-Delvet.jpeg",
+      "image_file": "images/d069a148b1-Diggory-Diggory-Delvet.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 12,
+      "character_group_id": "diggory-diggory-delvet",
+      "character_group": "Diggory Diggory Delvet",
+      "characters": [
+        "Diggory Diggory Delvet"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Diggory Diggory Delvet · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "duchess-with-flowers",
+      "name": "Duchess with Flowers",
+      "catalog_family": "Duchess",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-duchess/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Duchess-With-Flowers.jpeg",
+      "image_file": "images/46bbe1a108-Duchess-With-Flowers.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 13,
+      "character_group_id": "duchess",
+      "character_group": "Duchess",
+      "characters": [
+        "Duchess"
+      ],
+      "pose_label_zh": "与花朵",
+      "display_name_zh": "Duchess · 与花朵",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "duchess-with-pie",
+      "name": "Duchess with Pie",
+      "catalog_family": "Duchess",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-duchess/",
+      "source_image_url": "",
+      "image_file": "",
+      "image_status": "missing_in_source",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 14,
+      "character_group_id": "duchess",
+      "character_group": "Duchess",
+      "characters": [
+        "Duchess"
+      ],
+      "pose_label_zh": "与馅饼",
+      "display_name_zh": "Duchess · 与馅饼",
+      "image_status_label_zh": "缺少图片",
+      "image_note_zh": "来源页面未提供此造型的独立图片，保留条目待补图。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "farmer-potatoes",
+      "name": "Farmer Potatoes",
+      "catalog_family": "Farmer Potatoes",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-farmer-potatoes/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Farmer-Potatoes.jpeg",
+      "image_file": "images/88dd887af6-Farmer-Potatoes.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 15,
+      "character_group_id": "farmer-potatoes",
+      "character_group": "Farmer Potatoes",
+      "characters": [
+        "Farmer Potatoes"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Farmer Potatoes · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "fierce-bad-rabbit",
+      "name": "Fierce Bad Rabbit",
+      "catalog_family": "Fierce Bad Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-fierce-bad-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Fierce-Bad-Rabbit.jpeg",
+      "image_file": "images/774aca115b-Fierce-Bad-Rabbit.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 16,
+      "character_group_id": "fierce-bad-rabbit",
+      "character_group": "Fierce Bad Rabbit",
+      "characters": [
+        "Fierce Bad Rabbit"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Fierce Bad Rabbit · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "flopsy-mopsy-and-cottontail-cloaks",
+      "name": "Flopsy, Mopsy and Cottontail — Cloaks",
+      "catalog_family": "Flopsy, Mopsy and Cottontail",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-flopsy-mopsy-and-cottontail/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mopsy.jpeg",
+      "image_file": "images/02020d02c5-Mopsy.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 17,
+      "character_group_id": "flopsy-mopsy-and-cottontail",
+      "character_group": "Flopsy, Mopsy and Cottontail",
+      "characters": [
+        "Flopsy",
+        "Mopsy",
+        "Cottontail"
+      ],
+      "pose_label_zh": "披风造型",
+      "display_name_zh": "Flopsy, Mopsy and Cottontail · 披风造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "flopsy-mopsy-and-cottontail-around-a-pot",
+      "name": "Flopsy, Mopsy and Cottontail — Around a Pot",
+      "catalog_family": "Flopsy, Mopsy and Cottontail",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-flopsy-mopsy-and-cottontail/",
+      "source_image_url": "",
+      "image_file": "",
+      "image_status": "missing_in_source",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 18,
+      "character_group_id": "flopsy-mopsy-and-cottontail",
+      "character_group": "Flopsy, Mopsy and Cottontail",
+      "characters": [
+        "Flopsy",
+        "Mopsy",
+        "Cottontail"
+      ],
+      "pose_label_zh": "围着一口锅",
+      "display_name_zh": "Flopsy, Mopsy and Cottontail · 围着一口锅",
+      "image_status_label_zh": "缺少图片",
+      "image_note_zh": "来源页面未提供此造型的独立图片，保留条目待补图。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "cottontail-sitting-on-a-chair",
+      "name": "Cottontail Sitting on a Chair",
+      "catalog_family": "Flopsy, Mopsy and Cottontail",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-flopsy-mopsy-and-cottontail/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Cottontail.jpeg",
+      "image_file": "images/09d1450294-Cottontail.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 19,
+      "character_group_id": "cottontail",
+      "character_group": "Cottontail",
+      "characters": [
+        "Cottontail"
+      ],
+      "pose_label_zh": "坐在椅子上",
+      "display_name_zh": "Cottontail · 坐在椅子上",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "foxy-whiskered-gentleman",
+      "name": "Foxy Whiskered Gentleman",
+      "catalog_family": "Foxy Whiskered Gentleman",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-foxy-whiskered-gentleman/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Foxy.jpeg",
+      "image_file": "images/dc7b995eaf-Mr-Foxy.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Head/arm orientation variants provisionally merged under action-level rule; retain separately if collector chooses strict pose-level counting.",
+      "catalog_index": 20,
+      "character_group_id": "foxy-whiskered-gentleman",
+      "character_group": "Foxy Whiskered Gentleman",
+      "characters": [
+        "Foxy Whiskered Gentleman"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Foxy Whiskered Gentleman · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "按动作层级暂合并头部或手臂朝向差异；若按细分姿态收藏，可另行核对。"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "catalog_family": "Ginger",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-ginger/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Ginger.jpeg",
+      "image_file": "images/a5b49f969f-Ginger.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 21,
+      "character_group_id": "ginger",
+      "character_group": "Ginger",
+      "characters": [
+        "Ginger"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Ginger · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "ginger-and-pickles-tableau",
+      "name": "Ginger and Pickles Tableau",
+      "catalog_family": "Ginger",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-ginger/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Ginger-and-POickles-Tableau.jpeg",
+      "image_file": "images/a85945722d-Ginger-and-POickles-Tableau.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 22,
+      "character_group_id": "ginger-pickles",
+      "character_group": "Ginger & Pickles",
+      "characters": [
+        "Ginger",
+        "Pickles"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Ginger & Pickles · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "goody-tiptoes",
+      "name": "Goody Tiptoes",
+      "catalog_family": "Goody Tiptoes",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-goody-tiptoes/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Goody-Tiptoes.jpeg",
+      "image_file": "images/a637cbd45b-Goody-Tiptoes.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 23,
+      "character_group_id": "goody-tiptoes",
+      "character_group": "Goody Tiptoes",
+      "characters": [
+        "Goody Tiptoes"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Goody Tiptoes · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "goody-and-timmy-tiptoes",
+      "name": "Goody and Timmy Tiptoes",
+      "catalog_family": "Goody Tiptoes",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-goody-tiptoes/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Goody-and-Timmy-Tiptoes.jpeg",
+      "image_file": "images/d78491c2fe-Goody-and-Timmy-Tiptoes.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 24,
+      "character_group_id": "goody-timmy-tiptoes",
+      "character_group": "Goody & Timmy Tiptoes",
+      "characters": [
+        "Goody Tiptoes",
+        "Timmy Tiptoes"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Goody & Timmy Tiptoes · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "head-gardener",
+      "name": "Head Gardener",
+      "catalog_family": "Head Gardener",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-head-gardener/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Head-Gardener.jpeg",
+      "image_file": "images/38ea75c453-Head-Gardener.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 25,
+      "character_group_id": "head-gardener",
+      "character_group": "Head Gardener",
+      "characters": [
+        "Head Gardener"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Head Gardener · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "hunca-munca-with-straw-cradle",
+      "name": "Hunca Munca with Straw Cradle",
+      "catalog_family": "Hunca Munca",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-hunca-munca/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Hunca-Munca.jpeg",
+      "image_file": "images/5f37de5012-Hunca-Munca.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 26,
+      "character_group_id": "hunca-munca",
+      "character_group": "Hunca Munca",
+      "characters": [
+        "Hunca Munca"
+      ],
+      "pose_label_zh": "与草编摇篮",
+      "display_name_zh": "Hunca Munca · 与草编摇篮",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "hunca-munca-cleaning-a-saucepan",
+      "name": "Hunca Munca Cleaning a Saucepan",
+      "catalog_family": "Hunca Munca",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-hunca-munca/",
+      "source_image_url": "",
+      "image_file": "",
+      "image_status": "missing_in_source",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 27,
+      "character_group_id": "hunca-munca",
+      "character_group": "Hunca Munca",
+      "characters": [
+        "Hunca Munca"
+      ],
+      "pose_label_zh": "清洗平底锅",
+      "display_name_zh": "Hunca Munca · 清洗平底锅",
+      "image_status_label_zh": "缺少图片",
+      "image_note_zh": "来源页面未提供此造型的独立图片，保留条目待补图。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "hunca-munca-sweeping",
+      "name": "Hunca Munca Sweeping",
+      "catalog_family": "Hunca Munca",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-hunca-munca/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Hunca-Munca-Sweeping.jpeg",
+      "image_file": "images/5756c6c446-Hunca-Munca-Sweeping.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 28,
+      "character_group_id": "hunca-munca",
+      "character_group": "Hunca Munca",
+      "characters": [
+        "Hunca Munca"
+      ],
+      "pose_label_zh": "扫地",
+      "display_name_zh": "Hunca Munca · 扫地",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "jemima-puddle-duck",
+      "name": "Jemima Puddle-Duck",
+      "catalog_family": "Jemima Puddle-Duck",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-jemima-puddle-duck/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Jemima-Puddle-Duck.jpeg",
+      "image_file": "images/900e198397-Jemima-Puddle-Duck.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 29,
+      "character_group_id": "jemima-puddle-duck",
+      "character_group": "Jemima Puddle-Duck",
+      "characters": [
+        "Jemima Puddle-Duck"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Jemima Puddle-Duck · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "jemima-made-a-feathered-nest",
+      "name": "Jemima Made a Feathered Nest",
+      "catalog_family": "Jemima Puddle-Duck",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-jemima-puddle-duck/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Jemima-Made-a-Feathered-Nest.jpeg",
+      "image_file": "images/f12ee7635a-Jemima-Made-a-Feathered-Nest.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 30,
+      "character_group_id": "jemima-puddle-duck",
+      "character_group": "Jemima Puddle-Duck",
+      "characters": [
+        "Jemima Puddle-Duck"
+      ],
+      "pose_label_zh": "羽毛巢",
+      "display_name_zh": "Jemima Puddle-Duck · 羽毛巢",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "jemima-and-her-ducklings",
+      "name": "Jemima and Her Ducklings",
+      "catalog_family": "Jemima Puddle-Duck",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-jemima-puddle-duck/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Jemima-with-Her-Ducklings.jpeg",
+      "image_file": "images/918bbd5264-Jemima-with-Her-Ducklings.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 31,
+      "character_group_id": "jemima-puddle-duck",
+      "character_group": "Jemima Puddle-Duck",
+      "characters": [
+        "Jemima Puddle-Duck"
+      ],
+      "pose_label_zh": "与小鸭",
+      "display_name_zh": "Jemima Puddle-Duck · 与小鸭",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "jemima-puddle-duck-with-foxy-whiskered-gentleman",
+      "name": "Jemima Puddle-Duck with Foxy Whiskered Gentleman",
+      "catalog_family": "Jemima Puddle-Duck",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-jemima-puddle-duck/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Jemima-Puddle-Duck-and-Foxy-Whiskered-Gentleman.jpeg",
+      "image_file": "images/5c87f565d0-Jemima-Puddle-Duck-and-Foxy-Whiskered-Gentleman.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 32,
+      "character_group_id": "jemima-foxy-whiskered-gentleman",
+      "character_group": "Jemima & Foxy Whiskered Gentleman",
+      "characters": [
+        "Jemima Puddle-Duck",
+        "Foxy Whiskered Gentleman"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Jemima & Foxy Whiskered Gentleman · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "jeremy-fisher-catches-a-fish",
+      "name": "Jeremy Fisher Catches a Fish",
+      "catalog_family": "Jeremy Fisher Catches a Fish",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-jeremy-fisher-catches-a-fish/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Jeremy-Fisher-Catches-Fish.jpeg",
+      "image_file": "images/7eacada3dc-Jeremy-Fisher-Catches-Fish.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 33,
+      "character_group_id": "mr-jeremy-fisher",
+      "character_group": "Mr Jeremy Fisher",
+      "characters": [
+        "Mr Jeremy Fisher"
+      ],
+      "pose_label_zh": "捉到鱼",
+      "display_name_zh": "Mr Jeremy Fisher · 捉到鱼",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "johnny-town-mouse",
+      "name": "Johnny Town-Mouse",
+      "catalog_family": "Johnny Town-Mouse",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-johnny-town-mouse/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Johnny-Town-Mouse.jpeg",
+      "image_file": "images/5d3261729a-Johnny-Town-Mouse.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 34,
+      "character_group_id": "johnny-town-mouse",
+      "character_group": "Johnny Town-Mouse",
+      "characters": [
+        "Johnny Town-Mouse"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Johnny Town-Mouse · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "johnny-town-mouse-eating-corn",
+      "name": "Johnny Town-Mouse Eating Corn",
+      "catalog_family": "Johnny Town-Mouse",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-johnny-town-mouse/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Johnny-Town-Mouse-Eating-Corn.jpeg",
+      "image_file": "images/f636112da5-Johnny-Town-Mouse-Eating-Corn.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 35,
+      "character_group_id": "johnny-town-mouse",
+      "character_group": "Johnny Town-Mouse",
+      "characters": [
+        "Johnny Town-Mouse"
+      ],
+      "pose_label_zh": "吃玉米",
+      "display_name_zh": "Johnny Town-Mouse · 吃玉米",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "johnny-town-mouse-with-a-bag",
+      "name": "Johnny Town-Mouse with a Bag",
+      "catalog_family": "Johnny Town-Mouse",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-johnny-town-mouse/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Johnny-Town-Mouse-With-Bag.jpeg",
+      "image_file": "images/0455ec14f4-Johnny-Town-Mouse-With-Bag.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 36,
+      "character_group_id": "johnny-town-mouse",
+      "character_group": "Johnny Town-Mouse",
+      "characters": [
+        "Johnny Town-Mouse"
+      ],
+      "pose_label_zh": "带着包",
+      "display_name_zh": "Johnny Town-Mouse · 带着包",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "lady-mouse",
+      "name": "Lady Mouse",
+      "catalog_family": "Lady Mouse",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-lady-mouse/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Lady-Mouse.jpeg",
+      "image_file": "images/36a1b4aa45-Lady-Mouse.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 37,
+      "character_group_id": "lady-mouse",
+      "character_group": "Lady Mouse",
+      "characters": [
+        "Lady Mouse"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Lady Mouse · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "little-black-rabbit",
+      "name": "Little Black Rabbit",
+      "catalog_family": "Little Black Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-little-black-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Little-Black-Rabbit.jpeg",
+      "image_file": "images/381ede68df-Little-Black-Rabbit.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 38,
+      "character_group_id": "little-black-rabbit",
+      "character_group": "Little Black Rabbit",
+      "characters": [
+        "Little Black Rabbit"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Little Black Rabbit · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "little-pig-robinson",
+      "name": "Little Pig Robinson",
+      "catalog_family": "Little Pig Robinson",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-little-pig-robinson/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Little-Pig-Robinson.jpeg",
+      "image_file": "images/57f55b670c-Little-Pig-Robinson.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 39,
+      "character_group_id": "little-pig-robinson",
+      "character_group": "Little Pig Robinson",
+      "characters": [
+        "Little Pig Robinson"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Little Pig Robinson · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "little-pig-robinson-spying",
+      "name": "Little Pig Robinson Spying",
+      "catalog_family": "Little Pig Robinson",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-little-pig-robinson/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Little-Pig-Robinson-Spying.jpeg",
+      "image_file": "images/1059fe9c79-Little-Pig-Robinson-Spying.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 40,
+      "character_group_id": "little-pig-robinson",
+      "character_group": "Little Pig Robinson",
+      "characters": [
+        "Little Pig Robinson"
+      ],
+      "pose_label_zh": "窥探",
+      "display_name_zh": "Little Pig Robinson · 窥探",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "miss-moppet",
+      "name": "Miss Moppet",
+      "catalog_family": "Miss Moppet",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-miss-moppet/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Kitten.jpeg",
+      "image_file": "images/d257a0d599-Kitten.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 41,
+      "character_group_id": "miss-moppet",
+      "character_group": "Miss Moppet",
+      "characters": [
+        "Miss Moppet"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Miss Moppet · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tabitha-twitchit-and-miss-moppet",
+      "name": "Tabitha Twitchit and Miss Moppet",
+      "catalog_family": "Miss Moppet",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-miss-moppet/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tabitha-Twitchit-and-Miss-Moppet.jpeg",
+      "image_file": "images/fe52abae94-Tabitha-Twitchit-and-Miss-Moppet.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Appears on both Miss Moppet and Tabitha Twitchit pages; counted once.",
+      "catalog_index": 42,
+      "character_group_id": "tabitha-twitchit-miss-moppet",
+      "character_group": "Tabitha Twitchit & Miss Moppet",
+      "characters": [
+        "Tabitha Twitchit",
+        "Miss Moppet"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Tabitha Twitchit & Miss Moppet · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "此场景同时出现在 Miss Moppet 与 Tabitha Twitchit 页面中，已去重为一条。"
+    },
+    {
+      "id": "mr-alderman-ptolemy",
+      "name": "Mr Alderman Ptolemy",
+      "catalog_family": "Mr Alderman Ptolemy",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-alderman-ptolemy/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Alderman-Ptolmeny.jpeg",
+      "image_file": "images/6226802cb8-Mr-Alderman-Ptolmeny.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 43,
+      "character_group_id": "mr-alderman-ptolemy",
+      "character_group": "Mr Alderman Ptolemy",
+      "characters": [
+        "Mr Alderman Ptolemy"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr Alderman Ptolemy · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mr-drake-puddle-duck",
+      "name": "Mr Drake Puddle-duck",
+      "catalog_family": "Mr Drake Puddle-duck",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-drake-puddle-duck/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Drake-Puddle-Duck.png",
+      "image_file": "images/0d01815d15-Mr-Drake-Puddle-Duck.png",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 44,
+      "character_group_id": "mr-drake-puddle-duck",
+      "character_group": "Mr Drake Puddle-duck",
+      "characters": [
+        "Mr Drake Puddle-duck"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr Drake Puddle-duck · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mr-jackson",
+      "name": "Mr Jackson",
+      "catalog_family": "Mr Jackson",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-jackson/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Jackson.jpeg",
+      "image_file": "images/3888123a79-Mr-Jackson.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 45,
+      "character_group_id": "mr-jackson",
+      "character_group": "Mr Jackson",
+      "characters": [
+        "Mr Jackson"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr Jackson · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mr-jeremy-fisher",
+      "name": "Mr Jeremy Fisher",
+      "catalog_family": "Mr Jeremy Fisher",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-jeremy-fisher/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Jeremy-Fisher.jpeg",
+      "image_file": "images/19fe2a2569-Mr-Jeremy-Fisher.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 46,
+      "character_group_id": "mr-jeremy-fisher",
+      "character_group": "Mr Jeremy Fisher",
+      "characters": [
+        "Mr Jeremy Fisher"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr Jeremy Fisher · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mr-jeremy-fisher-digging",
+      "name": "Mr Jeremy Fisher Digging",
+      "catalog_family": "Mr Jeremy Fisher",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-jeremy-fisher/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Jeremy-Fisher-Digging.jpeg",
+      "image_file": "images/c615c362a6-Mr-Jeremy-Fisher-Digging.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 47,
+      "character_group_id": "mr-jeremy-fisher",
+      "character_group": "Mr Jeremy Fisher",
+      "characters": [
+        "Mr Jeremy Fisher"
+      ],
+      "pose_label_zh": "挖土",
+      "display_name_zh": "Mr Jeremy Fisher · 挖土",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mr-mcgregor",
+      "name": "Mr McGregor",
+      "catalog_family": "Mr McGregor",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-mcgregor/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Farmer-McGregor.jpeg",
+      "image_file": "images/6a4b1575da-Farmer-McGregor.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Head/arm orientation variants provisionally merged under action-level rule; retain separately if collector chooses strict pose-level counting.",
+      "catalog_index": 48,
+      "character_group_id": "mr-mcgregor",
+      "character_group": "Mr McGregor",
+      "characters": [
+        "Mr McGregor"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr McGregor · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "按动作层级暂合并头部或手臂朝向差异；若按细分姿态收藏，可另行核对。"
+    },
+    {
+      "id": "mr-tod",
+      "name": "Mr Tod",
+      "catalog_family": "Mr Tod",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-tod/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Todd.jpeg",
+      "image_file": "images/87dc29959d-Mr-Todd.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Head/arm orientation variants provisionally merged under action-level rule; retain separately if collector chooses strict pose-level counting.",
+      "catalog_index": 49,
+      "character_group_id": "mr-tod",
+      "character_group": "Mr Tod",
+      "characters": [
+        "Mr Tod"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr Tod · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "按动作层级暂合并头部或手臂朝向差异；若按细分姿态收藏，可另行核对。"
+    },
+    {
+      "id": "mr-benjamin-bunny",
+      "name": "Mr Benjamin Bunny",
+      "catalog_family": "Mr. Benjamin Bunny",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-benjamin-bunny/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2018/10/Mr-Benjamin-Bunny.jpeg",
+      "image_file": "images/827cf593d5-Mr-Benjamin-Bunny.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 50,
+      "character_group_id": "mr-benjamin-bunny",
+      "character_group": "Mr Benjamin Bunny",
+      "characters": [
+        "Mr Benjamin Bunny"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mr Benjamin Bunny · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mr-benjamin-bunny-and-peter",
+      "name": "Mr Benjamin Bunny and Peter",
+      "catalog_family": "Mr. Benjamin Bunny",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mr-benjamin-bunny/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2020/08/Benjamin-and-Peter.jpeg",
+      "image_file": "images/981c6447af-Benjamin-and-Peter.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 51,
+      "character_group_id": "mr-benjamin-bunny-peter",
+      "character_group": "Mr Benjamin Bunny & Peter",
+      "characters": [
+        "Mr Benjamin Bunny",
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Mr Benjamin Bunny & Peter · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-flopsy-bunny",
+      "name": "Mrs Flopsy Bunny",
+      "catalog_family": "Mrs Flopsy Bunny",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-flopsy-bunny/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Flopsy-Bunny.jpeg",
+      "image_file": "images/ef8d425f26-Mr-Flopsy-Bunny.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 52,
+      "character_group_id": "mrs-flopsy-bunny",
+      "character_group": "Mrs Flopsy Bunny",
+      "characters": [
+        "Mrs Flopsy Bunny"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mrs Flopsy Bunny · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-rabbit",
+      "name": "Mrs Rabbit",
+      "catalog_family": "Mrs Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mrs-Rabbit.jpeg",
+      "image_file": "images/0b4a579467-Mrs-Rabbit.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 53,
+      "character_group_id": "mrs-rabbit",
+      "character_group": "Mrs Rabbit",
+      "characters": [
+        "Mrs Rabbit"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mrs Rabbit · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-rabbit-and-bunnies",
+      "name": "Mrs Rabbit and Bunnies",
+      "catalog_family": "Mrs Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mrs-Rabbit-with-Bunnies.jpeg",
+      "image_file": "images/1909ed4ac8-Mrs-Rabbit-with-Bunnies.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 54,
+      "character_group_id": "mrs-rabbit",
+      "character_group": "Mrs Rabbit",
+      "characters": [
+        "Mrs Rabbit"
+      ],
+      "pose_label_zh": "与小兔",
+      "display_name_zh": "Mrs Rabbit · 与小兔",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-rabbit-and-peter",
+      "name": "Mrs Rabbit and Peter",
+      "catalog_family": "Mrs Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mum-and-Peter.jpeg",
+      "image_file": "images/4ac855353c-Mum-and-Peter.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 55,
+      "character_group_id": "mrs-rabbit-peter",
+      "character_group": "Mrs Rabbit & Peter",
+      "characters": [
+        "Mrs Rabbit",
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Mrs Rabbit & Peter · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-rabbit-cooking",
+      "name": "Mrs Rabbit Cooking",
+      "catalog_family": "Mrs Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mrs-Rabbit-Cooking.jpeg",
+      "image_file": "images/e353e14fe1-Mrs-Rabbit-Cooking.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 56,
+      "character_group_id": "mrs-rabbit",
+      "character_group": "Mrs Rabbit",
+      "characters": [
+        "Mrs Rabbit"
+      ],
+      "pose_label_zh": "做饭",
+      "display_name_zh": "Mrs Rabbit · 做饭",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-tiggy-winkle",
+      "name": "Mrs Tiggy-winkle",
+      "catalog_family": "Mrs Tiggy-winkle",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-tiggy-winkle/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/06/Mrs-Tiggywinkle.jpeg",
+      "image_file": "images/bdca03d151-Mrs-Tiggywinkle.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 57,
+      "character_group_id": "mrs-tiggy-winkle",
+      "character_group": "Mrs Tiggy-Winkle",
+      "characters": [
+        "Mrs Tiggy-Winkle"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mrs Tiggy-Winkle · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-tiggy-winkle-buys-provisions",
+      "name": "Mrs Tiggy-Winkle Buys Provisions",
+      "catalog_family": "Mrs Tiggy-Winkle Buys Provisions",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-tiggy-winkle-buys-provisions/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mr-Tiggy-Winkle-Buys-Provisions.jpeg",
+      "image_file": "images/c3a10b8785-Mr-Tiggy-Winkle-Buys-Provisions.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 58,
+      "character_group_id": "mrs-tiggy-winkle",
+      "character_group": "Mrs Tiggy-Winkle",
+      "characters": [
+        "Mrs Tiggy-Winkle"
+      ],
+      "pose_label_zh": "采购食物",
+      "display_name_zh": "Mrs Tiggy-Winkle · 采购食物",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-tiggy-winkle-takes-tea",
+      "name": "Mrs Tiggy-Winkle Takes Tea",
+      "catalog_family": "Mrs Tiggy-Winkle Takes Tea",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-tiggy-winkle-takes-tea/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/06/Mrs-Tiggy-Winkle.jpeg",
+      "image_file": "images/34514463ce-Mrs-Tiggy-Winkle.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 59,
+      "character_group_id": "mrs-tiggy-winkle",
+      "character_group": "Mrs Tiggy-Winkle",
+      "characters": [
+        "Mrs Tiggy-Winkle"
+      ],
+      "pose_label_zh": "喝茶",
+      "display_name_zh": "Mrs Tiggy-Winkle · 喝茶",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-tiggy-winkle-washing",
+      "name": "Mrs Tiggy-Winkle Washing",
+      "catalog_family": "Mrs Tiggy-Winkle Washing",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-tiggy-winkle-washing/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mrs-Tiggy-winkle-Washing.jpeg",
+      "image_file": "images/c1997d21f8-Mrs-Tiggy-winkle-Washing.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 60,
+      "character_group_id": "mrs-tiggy-winkle",
+      "character_group": "Mrs Tiggy-Winkle",
+      "characters": [
+        "Mrs Tiggy-Winkle"
+      ],
+      "pose_label_zh": "洗涤",
+      "display_name_zh": "Mrs Tiggy-Winkle · 洗涤",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "mrs-tittlemouse",
+      "name": "Mrs Tittlemouse",
+      "catalog_family": "Mrs Tittlemouse",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-mrs-tittlemouse/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Mrs-Tittlemouse.jpeg",
+      "image_file": "images/e8774739d8-Mrs-Tittlemouse.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "second_style_needs_pose_verification",
+      "notes": "Source describes two styles but illustrates only one. One provisional family entry; second style not counted separately pending comparison.",
+      "catalog_index": 61,
+      "character_group_id": "mrs-tittlemouse",
+      "character_group": "Mrs Tittlemouse",
+      "characters": [
+        "Mrs Tittlemouse"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Mrs Tittlemouse · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "第二款待核对",
+      "review_note_zh": "来源提到两种款式，但只展示一张图片。目前暂计一条；第二款是否为不同动作，仍待比对。"
+    },
+    {
+      "id": "old-mr-bouncer",
+      "name": "Old Mr Bouncer",
+      "catalog_family": "Old Mr Bouncer",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-old-mr-bouncer/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Old-Mr-Bouncer.jpeg",
+      "image_file": "images/6bc5e52aca-Old-Mr-Bouncer.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 62,
+      "character_group_id": "old-mr-bouncer",
+      "character_group": "Old Mr Bouncer",
+      "characters": [
+        "Old Mr Bouncer"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Old Mr Bouncer · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "old-mr-brown",
+      "name": "Old Mr Brown",
+      "catalog_family": "Old Mr Brown",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-old-mr-brown/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Old-Mr-Brown.jpeg",
+      "image_file": "images/c3243ee709-Old-Mr-Brown.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 63,
+      "character_group_id": "old-mr-brown",
+      "character_group": "Old Mr Brown",
+      "characters": [
+        "Old Mr Brown"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Old Mr Brown · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "old-mr-pricklepin",
+      "name": "Old Mr Pricklepin",
+      "catalog_family": "Old Mr Pricklepin",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-old-mr-pricklepin/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Old-Mr-Pricklepin.jpeg",
+      "image_file": "images/42aa82a9d0-Old-Mr-Pricklepin.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 64,
+      "character_group_id": "old-mr-pricklepin",
+      "character_group": "Old Mr Pricklepin",
+      "characters": [
+        "Old Mr Pricklepin"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Old Mr Pricklepin · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-and-the-red-pocket-handkerchief",
+      "name": "Peter and the Red Pocket Handkerchief",
+      "catalog_family": "Peter and the Red Pocket Handkerchief",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-and-the-red-pocket-handkerchief/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-and-the-Red-Pocket-Handkerchief.jpeg",
+      "image_file": "images/6434e72173-Peter-and-the-Red-Pocket-Handkerchief.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 65,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "与红手帕",
+      "display_name_zh": "Peter Rabbit · 与红手帕",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-in-bed",
+      "name": "Peter in Bed",
+      "catalog_family": "Peter in Bed",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-in-bed/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-In-Bed.jpeg",
+      "image_file": "images/fbdf289c0e-Peter-In-Bed.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 66,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "在床上",
+      "display_name_zh": "Peter Rabbit · 在床上",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-in-the-watering-can",
+      "name": "Peter in the Watering Can",
+      "catalog_family": "Peter in the Watering Can",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-in-the-watering-can/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-in-Watering-Can.jpeg",
+      "image_file": "images/3f4dd3b136-Peter-in-Watering-Can.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 67,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "在洒水壶里",
+      "display_name_zh": "Peter Rabbit · 在洒水壶里",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-on-his-book",
+      "name": "Peter on His Book",
+      "catalog_family": "Peter on His Book",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-on-his-book/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-on-His-Book.jpeg",
+      "image_file": "images/d55925252d-Peter-on-His-Book.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 68,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "在书本上",
+      "display_name_zh": "Peter Rabbit · 在书本上",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-rabbit",
+      "name": "Peter Rabbit",
+      "catalog_family": "Peter Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-Rabbit.jpeg",
+      "image_file": "images/7daa5139f6-Peter-Rabbit.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 69,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Peter Rabbit · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-rabbit-digging",
+      "name": "Peter Rabbit Digging",
+      "catalog_family": "Peter Rabbit Digging",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-rabbit-digging/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-Rabbit-Digging.jpeg",
+      "image_file": "images/da6a3adb2c-Peter-Rabbit-Digging.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 70,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "挖土",
+      "display_name_zh": "Peter Rabbit · 挖土",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-rabbit-gardening",
+      "name": "Peter Rabbit Gardening",
+      "catalog_family": "Peter Rabbit Gardening",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-rabbit-gardening/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-Digging.jpeg",
+      "image_file": "images/b79cbd02f0-Peter-Digging.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "Source image alt text says Digging; mapped using containing page. Visual identification should be cross-checked.",
+      "catalog_index": 71,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "园艺",
+      "display_name_zh": "Peter Rabbit · 园艺",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": "来源图片替代文字标为 Digging；目前按所属页面归类，图片与造型仍建议交叉核对。"
+    },
+    {
+      "id": "peter-with-daffodils",
+      "name": "Peter with Daffodils",
+      "catalog_family": "Peter with Daffodils",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-with-daffodils/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-with-Daffodils.jpeg",
+      "image_file": "images/132963df2c-Peter-with-Daffodils.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 72,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "与水仙花",
+      "display_name_zh": "Peter Rabbit · 与水仙花",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "peter-with-postbag",
+      "name": "Peter with Postbag",
+      "catalog_family": "Peter with Postbag",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-peter-with-postbag/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Peter-Rabbit-with-Postbag.jpeg",
+      "image_file": "images/f90444f9b8-Peter-Rabbit-with-Postbag.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 73,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "带着邮袋",
+      "display_name_zh": "Peter Rabbit · 带着邮袋",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "pickles",
+      "name": "Pickles",
+      "catalog_family": "Pickles",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-pickles/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Pickles.jpeg",
+      "image_file": "images/355e96c325-Pickles.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 74,
+      "character_group_id": "pickles",
+      "character_group": "Pickles",
+      "characters": [
+        "Pickles"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Pickles · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "pig-wig",
+      "name": "Pig Wig",
+      "catalog_family": "Pig Wig",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-pig-wig/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Pig-Wig.jpeg",
+      "image_file": "images/b1d986d39c-Pig-Wig.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 75,
+      "character_group_id": "pig-wig",
+      "character_group": "Pig Wig",
+      "characters": [
+        "Pig Wig"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Pig Wig · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "pigling-bland",
+      "name": "Pigling Bland",
+      "catalog_family": "Pigling Bland",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-pigling-bland/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Pigling-Bland.jpeg",
+      "image_file": "images/ba4213b9d0-Pigling-Bland.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 76,
+      "character_group_id": "pigling-bland",
+      "character_group": "Pigling Bland",
+      "characters": [
+        "Pigling Bland"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Pigling Bland · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "poorly-peter-rabbit",
+      "name": "Poorly Peter Rabbit",
+      "catalog_family": "Poorly Peter Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-poorly-peter-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Poorly-Peter-Rabbit.jpeg",
+      "image_file": "images/ed04169f1d-Poorly-Peter-Rabbit.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 77,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "生病造型",
+      "display_name_zh": "Peter Rabbit · 生病造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "rebeccah-puddle-duck",
+      "name": "Rebeccah Puddle-Duck",
+      "catalog_family": "Rebeccah Puddle-Duck",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-rebeccah-puddle-duck/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Rebecca-Puddle-Duck.jpeg",
+      "image_file": "images/28d4c7fbaf-Rebecca-Puddle-Duck.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 78,
+      "character_group_id": "rebeccah-puddle-duck",
+      "character_group": "Rebeccah Puddle-Duck",
+      "characters": [
+        "Rebeccah Puddle-Duck"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Rebeccah Puddle-Duck · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "ribby",
+      "name": "Ribby",
+      "catalog_family": "Ribby",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-ribby/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Ribby.jpeg",
+      "image_file": "images/3d6e45be7f-Ribby.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 79,
+      "character_group_id": "ribby",
+      "character_group": "Ribby",
+      "characters": [
+        "Ribby"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Ribby · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "sally-henny-penny",
+      "name": "Sally Henny Penny",
+      "catalog_family": "Sally Henny Penny",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-sally-henny-penny/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Sally-Henny-Penny.jpeg",
+      "image_file": "images/b47d8625f9-Sally-Henny-Penny.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 80,
+      "character_group_id": "sally-henny-penny",
+      "character_group": "Sally Henny Penny",
+      "characters": [
+        "Sally Henny Penny"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Sally Henny Penny · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "samuel-whiskers",
+      "name": "Samuel Whiskers",
+      "catalog_family": "Samuel Whiskers",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-samuel-whiskers/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Samuel-Whiskers.jpeg",
+      "image_file": "images/08d144a056-Samuel-Whiskers.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 81,
+      "character_group_id": "samuel-whiskers",
+      "character_group": "Samuel Whiskers",
+      "characters": [
+        "Samuel Whiskers"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Samuel Whiskers · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "simpkin",
+      "name": "Simpkin",
+      "catalog_family": "Simpkin",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-simpkin/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Simpkin.jpeg",
+      "image_file": "images/9d44cea7e5-Simpkin.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 82,
+      "character_group_id": "simpkin",
+      "character_group": "Simpkin",
+      "characters": [
+        "Simpkin"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Simpkin · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "sir-isaac-newton",
+      "name": "Sir Isaac Newton",
+      "catalog_family": "Sir Isaac Newton",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-sir-isaac-newton/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Isaac.jpeg",
+      "image_file": "images/6a189e5787-Isaac.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 83,
+      "character_group_id": "sir-isaac-newton",
+      "character_group": "Sir Isaac Newton",
+      "characters": [
+        "Sir Isaac Newton"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Sir Isaac Newton · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "squirrel-nutkin",
+      "name": "Squirrel Nutkin",
+      "catalog_family": "Squirrel Nutkin",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-squirrel-nutkin/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Ssquirrel-Nutkin.jpeg",
+      "image_file": "images/ec5112b4d2-Ssquirrel-Nutkin.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 84,
+      "character_group_id": "squirrel-nutkin",
+      "character_group": "Squirrel Nutkin",
+      "characters": [
+        "Squirrel Nutkin"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Squirrel Nutkin · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "susan",
+      "name": "Susan",
+      "catalog_family": "Susan",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-susan/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Susan-300x300.jpg",
+      "image_file": "images/71adef2e08-Susan-300x300.jpg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 85,
+      "character_group_id": "susan",
+      "character_group": "Susan",
+      "characters": [
+        "Susan"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Susan · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "sweet-peter-rabbit",
+      "name": "Sweet Peter Rabbit",
+      "catalog_family": "Sweet Peter Rabbit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-sweet-peter-rabbit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Sweet-Peter-Rabbit.jpeg",
+      "image_file": "images/6347fd6943-Sweet-Peter-Rabbit.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 86,
+      "character_group_id": "peter-rabbit",
+      "character_group": "Peter Rabbit",
+      "characters": [
+        "Peter Rabbit"
+      ],
+      "pose_label_zh": "Sweet 造型",
+      "display_name_zh": "Peter Rabbit · Sweet 造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tabitha-twitchit",
+      "name": "Tabitha Twitchit",
+      "catalog_family": "Tabitha Twitchit",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tabitha-twitchit/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tabitha-Twitchet.jpeg",
+      "image_file": "images/43b6f864c4-Tabitha-Twitchet.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 87,
+      "character_group_id": "tabitha-twitchit",
+      "character_group": "Tabitha Twitchit",
+      "characters": [
+        "Tabitha Twitchit"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Tabitha Twitchit · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tailor-of-gloucester",
+      "name": "Tailor of Gloucester",
+      "catalog_family": "Tailor of Gloucester",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tailor-of-gloucester/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tailor-of-Gloucester.jpeg",
+      "image_file": "images/0168af34b7-Tailor-of-Gloucester.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 88,
+      "character_group_id": "tailor-of-gloucester",
+      "character_group": "Tailor of Gloucester",
+      "characters": [
+        "Tailor of Gloucester"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Tailor of Gloucester · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "the-old-woman-who-lived-in-a-shoe",
+      "name": "The Old Woman Who Lived in a Shoe",
+      "catalog_family": "The Old Woman who Lived in a Shoe",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-the-old-woman-who-lived-in-a-shoe/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/The-Old-Woman-Who-Lived-in-a-Shoe.jpeg",
+      "image_file": "images/40d66d1c62-The-Old-Woman-Who-Lived-in-a-Shoe.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 89,
+      "character_group_id": "the-old-woman-who-lived-in-a-shoe",
+      "character_group": "The Old Woman Who Lived in a Shoe",
+      "characters": [
+        "The Old Woman Who Lived in a Shoe"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "The Old Woman Who Lived in a Shoe · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "the-old-woman-who-lived-in-a-shoe-knitting",
+      "name": "The Old Woman Who Lived in a Shoe Knitting",
+      "catalog_family": "The Old Woman who Lived in a Shoe",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-the-old-woman-who-lived-in-a-shoe/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Old-Woman-Knitting.jpeg",
+      "image_file": "images/5e18e22466-Old-Woman-Knitting.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 90,
+      "character_group_id": "the-old-woman-who-lived-in-a-shoe",
+      "character_group": "The Old Woman Who Lived in a Shoe",
+      "characters": [
+        "The Old Woman Who Lived in a Shoe"
+      ],
+      "pose_label_zh": "编织",
+      "display_name_zh": "The Old Woman Who Lived in a Shoe · 编织",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "this-pig-had-a-bit-of-meat",
+      "name": "This Pig Had A Bit Of Meat",
+      "catalog_family": "This Pig Had A Bit Of Meat",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-this-pig-had-a-bit-of-meat/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/This-Pig-Had-a-Piece-of-Meat.jpeg",
+      "image_file": "images/ef377c351f-This-Pig-Had-a-Piece-of-Meat.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 91,
+      "character_group_id": "this-pig-had-a-bit-of-meat",
+      "character_group": "This Pig Had A Bit Of Meat",
+      "characters": [
+        "This Pig Had A Bit Of Meat"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "This Pig Had A Bit Of Meat · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "thomasina-tittlemouse",
+      "name": "Thomasina Tittlemouse",
+      "catalog_family": "Thomasina Tittlemouse",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-thomasina-tittlemouse/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Thomasina-Tittlemouse.jpeg",
+      "image_file": "images/a7829ae7fc-Thomasina-Tittlemouse.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 92,
+      "character_group_id": "thomasina-tittlemouse",
+      "character_group": "Thomasina Tittlemouse",
+      "characters": [
+        "Thomasina Tittlemouse"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Thomasina Tittlemouse · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "timmy-tiptoes",
+      "name": "Timmy Tiptoes",
+      "catalog_family": "Timmy Tiptoes",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-timmy-tiptoes/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Timmy-Tiptoes.jpeg",
+      "image_file": "images/930e57724d-Timmy-Tiptoes.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 93,
+      "character_group_id": "timmy-tiptoes",
+      "character_group": "Timmy Tiptoes",
+      "characters": [
+        "Timmy Tiptoes"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Timmy Tiptoes · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "timmy-willie-fetching-milk",
+      "name": "Timmy Willie Fetching Milk",
+      "catalog_family": "Timmy Willie",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-timmy-willie-fetching-milk/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Timmy-Willie-Fetching-Milk.jpeg",
+      "image_file": "images/55bae3626f-Timmy-Willie-Fetching-Milk.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 94,
+      "character_group_id": "timmy-willie",
+      "character_group": "Timmy Willie",
+      "characters": [
+        "Timmy Willie"
+      ],
+      "pose_label_zh": "取牛奶",
+      "display_name_zh": "Timmy Willie · 取牛奶",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "timmy-willie-from-johnny-town-mouse",
+      "name": "Timmy Willie from Johnny Town-Mouse",
+      "catalog_family": "Timmy Willie",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-timmy-willie-fetching-milk/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Timmy-Willie-with-Johnny-Townmouse.jpeg",
+      "image_file": "images/87895e515d-Timmy-Willie-with-Johnny-Townmouse.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 95,
+      "character_group_id": "timmy-willie",
+      "character_group": "Timmy Willie",
+      "characters": [
+        "Timmy Willie"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Timmy Willie · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "timmy-willie-sleeping",
+      "name": "Timmy Willie Sleeping",
+      "catalog_family": "Timmy Willie",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-timmy-willie-fetching-milk/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Timmy-Willie-Sleeping.jpeg",
+      "image_file": "images/931fd0bafe-Timmy-Willie-Sleeping.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 96,
+      "character_group_id": "timmy-willie",
+      "character_group": "Timmy Willie",
+      "characters": [
+        "Timmy Willie"
+      ],
+      "pose_label_zh": "睡觉",
+      "display_name_zh": "Timmy Willie · 睡觉",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tom-kitten",
+      "name": "Tom Kitten",
+      "catalog_family": "Tom Kitten",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tom-kitten/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tom-Kitten.jpeg",
+      "image_file": "images/47f46ee7ae-Tom-Kitten.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 97,
+      "character_group_id": "tom-kitten",
+      "character_group": "Tom Kitten",
+      "characters": [
+        "Tom Kitten"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Tom Kitten · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tom-kitten-in-the-rockery",
+      "name": "Tom Kitten in the Rockery",
+      "catalog_family": "Tom Kitten",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tom-kitten/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tom-Kitten-in-the-Rockery.jpeg",
+      "image_file": "images/e5ace17aa6-Tom-Kitten-in-the-Rockery.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 98,
+      "character_group_id": "tom-kitten",
+      "character_group": "Tom Kitten",
+      "characters": [
+        "Tom Kitten"
+      ],
+      "pose_label_zh": "在假山间",
+      "display_name_zh": "Tom Kitten · 在假山间",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tom-kitten-and-butterfly",
+      "name": "Tom Kitten and Butterfly",
+      "catalog_family": "Tom Kitten",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tom-kitten/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tom-Kitten-with-Butterfly.jpeg",
+      "image_file": "images/782201406e-Tom-Kitten-with-Butterfly.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 99,
+      "character_group_id": "tom-kitten",
+      "character_group": "Tom Kitten",
+      "characters": [
+        "Tom Kitten"
+      ],
+      "pose_label_zh": "与蝴蝶",
+      "display_name_zh": "Tom Kitten · 与蝴蝶",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tom-thumb",
+      "name": "Tom Thumb",
+      "catalog_family": "Tom Thumb",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tom-thumb/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tom-Thumb.jpeg",
+      "image_file": "images/2598a02aa5-Tom-Thumb.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 100,
+      "character_group_id": "tom-thumb",
+      "character_group": "Tom Thumb",
+      "characters": [
+        "Tom Thumb"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Tom Thumb · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "tommy-brock",
+      "name": "Tommy Brock",
+      "catalog_family": "Tommy Brock",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-tommy-brock/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Tommy-Brock-Handle-Out.jpeg",
+      "image_file": "images/c8b91724d9-Tommy-Brock-Handle-Out.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 101,
+      "character_group_id": "tommy-brock",
+      "character_group": "Tommy Brock",
+      "characters": [
+        "Tommy Brock"
+      ],
+      "pose_label_zh": "角色造型",
+      "display_name_zh": "Tommy Brock · 角色造型",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "two-gentlemen-rabbits",
+      "name": "Two Gentlemen Rabbits",
+      "catalog_family": "Two Gentlemen Rabbits",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-two-gentlemen-rabbits/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Two-Gentlemen-Rabbits.jpeg",
+      "image_file": "images/1cb6153224-Two-Gentlemen-Rabbits.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 102,
+      "character_group_id": "two-gentlemen-rabbits",
+      "character_group": "Two Gentlemen Rabbits",
+      "characters": [
+        "Two Gentlemen Rabbits"
+      ],
+      "pose_label_zh": "双角色场景",
+      "display_name_zh": "Two Gentlemen Rabbits · 双角色场景",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    },
+    {
+      "id": "yock-yock-in-the-tub",
+      "name": "Yock-Yock In The Tub",
+      "catalog_family": "Yock-Yock In The Tub",
+      "manufacturer_scope": "Beswick",
+      "source_page": "https://beatrix-potter-figurines.co.uk/beswick-beatrix-potter-figurines/beswick-yock-yock-in-the-tub/",
+      "source_image_url": "https://beatrix-potter-figurines.co.uk/wp-content/uploads/2017/05/Yock-Yock-in-the-Tub.jpeg",
+      "image_file": "images/ea5239d50f-Yock-Yock-in-the-Tub.jpeg",
+      "image_status": "downloaded_reference",
+      "review_status": "source_supported",
+      "notes": "",
+      "catalog_index": 103,
+      "character_group_id": "yock-yock",
+      "character_group": "Yock-Yock",
+      "characters": [
+        "Yock-Yock"
+      ],
+      "pose_label_zh": "在桶里",
+      "display_name_zh": "Yock-Yock · 在桶里",
+      "image_status_label_zh": "来源参考图",
+      "image_note_zh": "图片来自所列来源页面，用于款式辨识参考。",
+      "review_status_label_zh": "已按来源收录",
+      "review_note_zh": ""
+    }
+  ]
+}
